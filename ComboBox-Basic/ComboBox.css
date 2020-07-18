@@ -1,0 +1,17 @@
+body {
+  padding: 100px;
+}
+
+select {
+  width: 196px;
+  height: 41px;
+  font-size: 15px;
+  color: #999;
+  border: 2px solid #ddd;
+  background: url(./assets/drop-down-arrow.png) no-repeat right 13px center;
+
+  appearance: none; /* 기본 효과 제거 */
+  -webkit-appearance: none; /* 기본 효과 제거 */
+  -moz-appearance: none;
+  appearance: none;
+}
